@@ -45,7 +45,7 @@ additional_links:
 
 # About Section
 # about_title: About Me
-about_profile_image: images/akruti.jpg
+about_profile_image: images/akruti.jpeg
 about_content: | # this will include new lines to allow paragraphs
   Hi, My name is Akruti Jain, I'm a software engineer with experience in Node.Js and React. I am currently working  for L&T Technology Services as a full stack web developer.
 
