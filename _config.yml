@@ -6,22 +6,22 @@ favicon: images/favicon.ico
 version: 2
 
 # Personal info
-name: Kumar Samaksha
+name: Akruti jain
 title: Full Stack Web Developer
-email: kumarsamaksha21@gmail.com
-phone: +91 7004903719
+email: akkukothari7001@gmail.com
+phone: +91 9001606780
 # Dark Mode (true/false/never)
 darkmode: true
 
 # Social links
 # twitter_username: facespics
-github_username: samaksha
+github_username: Akrutijain
 # stackoverflow_username: "00000001"
 # dribbble_username: jekyll
 # facebook_username: jekyll
 # flickr_username: jekyll
 # instagram_username: jameswgrant
-linkedin_username: samaksha
+linkedin_username: akruti-jain9
 # xing_username: jekyll
 # pinterest_username: jekyll
 # youtube_username: globalmtb
@@ -32,7 +32,7 @@ linkedin_username: samaksha
 additional_links:
   - title: itsgoingto.be
     icon: fab fa-adobe
-    url: https://drive.google.com/file/d/1zy0oMym-I_2nksY_XSvlYVnlqu2vVx0V/view?usp=sharing
+    url: https://drive.google.com/file/d/1M2ZtZYafsepPXZONsI_R3vkfUBffHSlP/view
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
 #   url: Link url (eg. https://google.com)
@@ -45,58 +45,55 @@ additional_links:
 
 # About Section
 # about_title: About Me
-about_profile_image: images/1597822945430.jpg
+about_profile_image: images/akruti.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, My name is Kumar Samaksha, I'm a software engineer with experience in .NET and Angular development. I am currently working  for IntelliH as a full stack web developer on their patient monitoring product called PatientX.
+  Hi, My name is Akruti Jain, I'm a software engineer with experience in Node.Js and React. I am currently working  for L&T Technology Services as a full stack web developer.
 
   I enjoy understanding how systems work that is performant and secure whilst also giving users an enjoyable experience. I have worked with a range of different languages and frameworks and I am always looking for opportunities to work with something new.
-  The things that I currently have experience working with are : <mark>Javascript</mark>, <mark>Angular</mark>, <mark>.NET</mark>, <mark>Python</mark>, <mark>C++</mark>, <mark>MySQL</mark>, <mark>GIT</mark> and <mark>Azure</mark>
+  The things that I currently have experience working with are : <mark>Javascript</mark>, <mark>ReactJs</mark>, <mark>NodeJs</mark>, <mark>Python</mark>, <mark>SQL Server</mark>, <mark>GIT</mark> and <mark>AWS</mark>
 
 content:
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: BIRLA INSTITUTE OF TECHNOLOGY
-        caption: 2018 - 2022, 7.8 CGPA
-        sub_title: BTech Electronics and Communication
+        title: BHARATI VIDYAPEETH DEEMED UNIVERSITY
+        caption: 2018 - 2022, 8.2 CGPA
+        sub_title: BTech Computer science and Business system
         # quote: >
         # Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
         description: | # this will include new lines to allow paragraphs
-          During my time at BIT Mesra I learnt lots of key skills such as team work and project management. Although we mainly focused on software development and the principles of programming I use a lot of these skills to my advantage in my day to day work.
-
-          I spent a lot of my free time with the Robotics Club. I spent 3 years on the Team as a Technical Member and then Mentoring the newcomers. During this time I took on roles from Participating in robotics competition to organising a event for college tech fest.
+          During my time at BHARATI VIDYAPEETH DEEMED UNIVERSITY I learnt lots of key skills such as team work and project management. Although we mainly focused on software development and the principles of programming I use a lot of these skills to my advantage in my day to day work.
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
         border: weak
-        title: INTELLIH
-        link: Intellihinc.com
+        title: L&T Technology Services
+        link: ltts.com
         # link_text: boringcompany.com
         sub_title: Software Engineer
-        caption: August 2022 - Present
+        caption: October 2022 - Present
         # quote: >
         # Worked as a part of Core team on frontend and backend
         description: | # this will include new lines to allow paragraphs
-          Working at IntelliH as a front end engineer focusing mostly on a patient monitoring product called PatientX. I have the opportuntity 
-          to help drive the team forward and work with the PM.
+          Working at L&T Technology Services as a Software engineer for System Modernization Team. I have the opportuntity to help drive the team forward and work with the PM.
 
-          I spent time working on various areas of a large application. The frontend is a <mark>Angular</mark> app that talks to an API built using a collection of <mark>.NET</mark> microservices. I have spent time working in mutliparts of the stack including helping to implement a microservice from scratch.
+          I spent time working on various areas of a large application. The frontend is a <mark>React</mark> app that talks to an API built using a collection of <mark>Django</mark> APIs. I have spent time working in mutliparts of the stack.
 
           I enjoy learning about all areas of our application which allows me to be go-to person for knowledge and queries within my team and the other teams. I am always looking to suggest improvements and challenging what and how we are working to make sure we are delivering the best service to the customers.
 
       - layout: left
-        title: Fastenal
-        link: Fastenal.com
+        title: TSC ION
+        link: tcsion.com
         # link_text: boringcompany.com
         sub_title: Software Engineer Intern
-        caption: Jan 2022 - Jun 2022
+        caption: Jan 2021 - Apr 2021
         # quote: >
         # Worked on Fastenal Branch Catalogue POC project as part of WebPOS team
         description: | # this will include new lines to allow paragraphs
-          For 6 months I was working on delivering a standalone web product called Fastenal branch catalogue. This has been built from the ground up using <mark>.NET</mark> to provide a backend API and <mark>Angular</mark> for the frontend. I also gained a lot of experience with <mark>MongoDB</mark> in the backend. 
+          For 3 months I was working on developing a standalone web product called Interactive Examination Portal. This has been built from the ground up using <mark>PHP</mark> to provide a backend API and <mark>Javascript</mark> for the frontend. I also gained a lot of experience with <mark>MySQL</mark> in the backend. 
 
           During the project I spent time writing the technical Specifications and also collecting Project Requirements. I feel this is a useful skill to have as it helps me to become an even more well-rounded developer.
 
@@ -105,83 +102,66 @@ content:
     content:
       - layout: top-middle
         border: weak
-        title: SME PLATFORM
-        link: https://github.com/samaksha/Internshala
-        link_text: github.com/samaksha/sme
+        title: Know It All
+        link: github.com/Akrutijain/Know_it_all
+        link_text: github.com/Akruti/knowitall
         additional_links:
-          - title: github.com/samaksha/smeplay.google.com/sme
+          - title: github.com/akruti
             icon: fab fa-android
-            url: https://play.google.com/store/apps/details?id=in.co.sabjiwalaa.twa
+            url: github.com/Akrutijain/Know_it_all
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         # quote: >
         # Worked as part of backend team at a startup
         description: | # this will include new lines to allow paragraphs
-          Last year I took on the task of rebuilding an existing application that services over 100 customers. I worked on updating the frontend, backend and design. This project had a very tight time scale and I was able to complete it in very good time while providing regular updates. I then built this to a high standard which lead to a seamless switch over from the previous system with no issues. The site was built using <mark>PHP/MySQL</mark> and I have used <mark>Azure</mark> to deploy and host the site. 
+          Developed a web application to enable effective communication between students and teachersIntegrated PassportJS for authentication and authorization functionalities. 
 
-          I have used this experience to increase many  of my skills and also learn new things, most recently <mark>PHP</mark> and <mark>MySQL</mark>. I have particularly enjoyed designing my own website and implementing this to a high standard.
-
+          Employed MongoDB to store and manage data on the server-side and NodeJs for backend.
       - layout: top-middle
         border: weak
-        title: S3-Drive
-        link: github.com/samaksha/S3-Drive
-        link_text: github.com/samaksha/S3-Drive
+        title: Movie Ticket Booking System
+        link: github.com/Akrutijain/Movie-Ticket-Booking-System
+        link_text: github.com/Akruti/Movie-Ticket
         additional_links:
-          - title: github.com/samaksha
+          - title: github.com/Akruti/Movie-Ticket
             icon: fab fa-github
-            url: github.com/samaksha/S3-Drive
+            url: github.com/Akruti/Movie-Ticket
         # - title:  Github page for project (eg. sproogen/modern-resume-theme)
         #   icon: fab fa-github
         #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         #quote: >
         # Worked as part of backend team at a startup
         description: | # this will include new lines to allow paragraphs
-          Built a <mark>NodeJs/MongoDB</mark> file upload and short link generation platform with authentication. Frontend end with Angular and used <mark>AWS S3</mark> for object storage.
+          Implemented user authentication for seamless access to movie options. Developed a selection feature allowing users to browse and choose from available movie listings.
 
-      - layout: top-middle
-        title: AUTONOMOUS SPY BOT
-        link: github.com/hackabit19/EDITH
-        link_text: github.com/samaksha/bot
-        additional_links:
-          - title: github.com/samaksha
-            icon: fab fa-github
-            url: github.com/hackabit19/EDITH
-        # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-        #   icon: fab fa-github
-        #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-        #quote: >
-        #Worked as part of backend team at a startup
-        description: | # this will include new lines to allow paragraphs
-          Worked as part of team EDITH consisting of 4 people with a diverse skill set in HackAbit hackathon. This Bot enters a room and traverse's the room outputting a map using LIDAR this could prove very helpful in surveillance
+          Implemented a ticket summary generation functionality
 
-          The final bot was built using <mark>embedded systems</mark> and <mark>computer vision</mark>. The output could have been much better with the use of machine learning and LIDAR technology.
+  # - title: A Little More About Me
+  #   layout: text
+  #   content: | # this will include new lines to allow paragraphs
+  #     **ACHIEVEMENTS**
 
-  - title: A Little More About Me
-    layout: text
-    content: | # this will include new lines to allow paragraphs
-      **ACHIEVEMENTS**
-
-      *ABU ROBOCON 2020 | Member | Robolution*
-        - Participated in the Largest robotics competition in Asia
-        - India rank 28/300 in ABU Robocon round 1
+  #     *ABU ROBOCON 2020 | Member | Robolution*
+  #       - Participated in the Largest robotics competition in Asia
+  #       - India rank 28/300 in ABU Robocon round 1
         
-      *4 STAR AT CODECHEF | Rating 1868 | Top 4% users*
-        - Globalrank 96/6K+ (Top 1.6%) in InfInITy 2k20 by IIIT pune
-        - Globalrank 407/19K+ (Top 2%) in November Challenge Div 1
-        - Globalrank 573/19K+ (Top 6%) in November Cook-Off 2020
+  #     *4 STAR AT CODECHEF | Rating 1868 | Top 4% users*
+  #       - Globalrank 96/6K+ (Top 1.6%) in InfInITy 2k20 by IIIT pune
+  #       - Globalrank 407/19K+ (Top 2%) in November Challenge Div 1
+  #       - Globalrank 573/19K+ (Top 6%) in November Cook-Off 2020
         
-      *OTHER ACHIEVEMENTS*
-        - Globalrank 2529/34K+ in Facebook Hacker Cup 2021
-        - Globalrank 1424/20K+ (Top 6%) in Codeforces round 734
-        - Globalrank 1696/16K+ (Top 10%) in Google Kickstart 2020
+  #     *OTHER ACHIEVEMENTS*
+  #       - Globalrank 2529/34K+ in Facebook Hacker Cup 2021
+  #       - Globalrank 1424/20K+ (Top 6%) in Codeforces round 734
+  #       - Globalrank 1696/16K+ (Top 10%) in Google Kickstart 2020
 
   - title: When I'm Not Programming
     layout: text
     content: | # this will include new lines to allow paragraphs
 
 
-      When I am not at my desk, I like to be active outdoors. I picked up table tennis and volleyball during my college time and have represented my school in inter-city badminton competition. I have tech and entrepreneurship, New technologies and business are fascinating to me. 
+      When I am not at my desk, I like to be active outdoors. I picked up Badminton and volleyball during my college time and have represented my school in inter-city badminton competition. I have tech and entrepreneurship, New technologies and business are fascinating to me. 
 
       I love to meet new people.It's always an eye opening experience talking to people from different backgrounds and gaining insights in various fields.
 
